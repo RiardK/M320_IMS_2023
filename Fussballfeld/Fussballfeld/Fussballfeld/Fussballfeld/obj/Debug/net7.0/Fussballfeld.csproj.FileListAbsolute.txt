@@ -1,0 +1,15 @@
+C:\Users\Riard Kaqkini\source\repos\Fussballfeld\Fussballfeld\bin\Debug\net7.0\Fussballfeld.exe
+C:\Users\Riard Kaqkini\source\repos\Fussballfeld\Fussballfeld\bin\Debug\net7.0\Fussballfeld.deps.json
+C:\Users\Riard Kaqkini\source\repos\Fussballfeld\Fussballfeld\bin\Debug\net7.0\Fussballfeld.runtimeconfig.json
+C:\Users\Riard Kaqkini\source\repos\Fussballfeld\Fussballfeld\bin\Debug\net7.0\Fussballfeld.dll
+C:\Users\Riard Kaqkini\source\repos\Fussballfeld\Fussballfeld\bin\Debug\net7.0\Fussballfeld.pdb
+C:\Users\Riard Kaqkini\source\repos\Fussballfeld\Fussballfeld\obj\Debug\net7.0\Fussballfeld.csproj.AssemblyReference.cache
+C:\Users\Riard Kaqkini\source\repos\Fussballfeld\Fussballfeld\obj\Debug\net7.0\Fussballfeld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riard Kaqkini\source\repos\Fussballfeld\Fussballfeld\obj\Debug\net7.0\Fussballfeld.AssemblyInfoInputs.cache
+C:\Users\Riard Kaqkini\source\repos\Fussballfeld\Fussballfeld\obj\Debug\net7.0\Fussballfeld.AssemblyInfo.cs
+C:\Users\Riard Kaqkini\source\repos\Fussballfeld\Fussballfeld\obj\Debug\net7.0\Fussballfeld.csproj.CoreCompileInputs.cache
+C:\Users\Riard Kaqkini\source\repos\Fussballfeld\Fussballfeld\obj\Debug\net7.0\Fussballfeld.dll
+C:\Users\Riard Kaqkini\source\repos\Fussballfeld\Fussballfeld\obj\Debug\net7.0\refint\Fussballfeld.dll
+C:\Users\Riard Kaqkini\source\repos\Fussballfeld\Fussballfeld\obj\Debug\net7.0\Fussballfeld.pdb
+C:\Users\Riard Kaqkini\source\repos\Fussballfeld\Fussballfeld\obj\Debug\net7.0\Fussballfeld.genruntimeconfig.cache
+C:\Users\Riard Kaqkini\source\repos\Fussballfeld\Fussballfeld\obj\Debug\net7.0\ref\Fussballfeld.dll
