@@ -108,7 +108,7 @@ class Program
         Spiel spiel = new Spiel(heimMannschaft, gastMannschaft);
         int ergebnis = spiel.SpieleSpiel();
 
-        // Ergebnisse so anpassen, dass sie nicht negativ sind
+        
         int ergebnisHeim = Math.Max(0, ergebnis);
         int ergebnisGast = Math.Max(0, -ergebnis);
 
