@@ -72,8 +72,8 @@ class Spiel
     {
         Random rand = new Random();
 
-        int heimTore = rand.Next(8); // Heimmannschaft erzielt 0 bis 4 Tore
-        int gastTore = rand.Next(8); // Gastmannschaft erzielt 0 bis 4 Tor
+        int heimTore = rand.Next(8); 
+        int gastTore = rand.Next(8); 
 
         return heimTore - gastTore; 
     }
