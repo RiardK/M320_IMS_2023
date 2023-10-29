@@ -1,0 +1,15 @@
+C:\Users\Riard Kaqkini\source\repos\geometrische_grundlagen\geometrische_grundlagen\bin\Debug\net7.0\geometrische_grundlagen.exe
+C:\Users\Riard Kaqkini\source\repos\geometrische_grundlagen\geometrische_grundlagen\bin\Debug\net7.0\geometrische_grundlagen.deps.json
+C:\Users\Riard Kaqkini\source\repos\geometrische_grundlagen\geometrische_grundlagen\bin\Debug\net7.0\geometrische_grundlagen.runtimeconfig.json
+C:\Users\Riard Kaqkini\source\repos\geometrische_grundlagen\geometrische_grundlagen\bin\Debug\net7.0\geometrische_grundlagen.dll
+C:\Users\Riard Kaqkini\source\repos\geometrische_grundlagen\geometrische_grundlagen\bin\Debug\net7.0\geometrische_grundlagen.pdb
+C:\Users\Riard Kaqkini\source\repos\geometrische_grundlagen\geometrische_grundlagen\obj\Debug\net7.0\geometrische_grundlagen.csproj.AssemblyReference.cache
+C:\Users\Riard Kaqkini\source\repos\geometrische_grundlagen\geometrische_grundlagen\obj\Debug\net7.0\geometrische_grundlagen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riard Kaqkini\source\repos\geometrische_grundlagen\geometrische_grundlagen\obj\Debug\net7.0\geometrische_grundlagen.AssemblyInfoInputs.cache
+C:\Users\Riard Kaqkini\source\repos\geometrische_grundlagen\geometrische_grundlagen\obj\Debug\net7.0\geometrische_grundlagen.AssemblyInfo.cs
+C:\Users\Riard Kaqkini\source\repos\geometrische_grundlagen\geometrische_grundlagen\obj\Debug\net7.0\geometrische_grundlagen.csproj.CoreCompileInputs.cache
+C:\Users\Riard Kaqkini\source\repos\geometrische_grundlagen\geometrische_grundlagen\obj\Debug\net7.0\geometrische_grundlagen.dll
+C:\Users\Riard Kaqkini\source\repos\geometrische_grundlagen\geometrische_grundlagen\obj\Debug\net7.0\refint\geometrische_grundlagen.dll
+C:\Users\Riard Kaqkini\source\repos\geometrische_grundlagen\geometrische_grundlagen\obj\Debug\net7.0\geometrische_grundlagen.pdb
+C:\Users\Riard Kaqkini\source\repos\geometrische_grundlagen\geometrische_grundlagen\obj\Debug\net7.0\geometrische_grundlagen.genruntimeconfig.cache
+C:\Users\Riard Kaqkini\source\repos\geometrische_grundlagen\geometrische_grundlagen\obj\Debug\net7.0\ref\geometrische_grundlagen.dll
